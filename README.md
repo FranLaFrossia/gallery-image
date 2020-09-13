@@ -1,4 +1,4 @@
-# domestika-gallery
+# Responsive image Gallery
 
 ## Build Setup
 
