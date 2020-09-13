@@ -1,4 +1,4 @@
-# Responsive image Gallery
+# Responsive image gallery
 
 ## Build Setup
 
