@@ -1,5 +1,7 @@
 # Responsive image gallery
 
+Responsive image gallery that fetchs from Unsplash API.
+
 ## Build Setup
 
 ```bash
